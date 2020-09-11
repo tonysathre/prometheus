@@ -46,7 +46,7 @@ scrape_configs:
     - names:
       - 'tasks.cadvisor'
       type: 'A'
-      port: 8080
+      port: 8090
 
 #     static_configs:
 #          - targets: ['cadvisor:8080']
